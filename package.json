@@ -1,0 +1,14 @@
+{
+  "name": "hello-ci-cd",
+  "version": "1.0.0",
+  "description": "Connect hello world app to pipeline with Github Actions and Firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Johnathon Wood",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
